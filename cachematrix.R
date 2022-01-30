@@ -1,5 +1,4 @@
-## This function creates a special "matrix" object 
-## that can cache its inverse.
+## an R function that is able to cache potentially time-consuming computations.
 
 ## creates a special "matrix" object
 
